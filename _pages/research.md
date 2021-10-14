@@ -10,15 +10,15 @@ redirect_from:
 
 ## Working Papers
 **Flat Fee Compensation, Lawyer Incentives, and Case Outcomes in Indigent Criminal Defense** (*Job Market Paper*)  
-  (Draft coming soon!)  
-  **Presentations:** Claremont Graduate University, Southern Economic Association (*scheduled*)
+<p class="tab">(Draft coming soon!)</p>  
+<p class="tab">**Presentations:** Claremont Graduate University, Southern Economic Association (*scheduled*)</p>
 
 ## Work in Progress
-<b>The Impact of Lawyer Quality on Outcomes of Indigent Criminal Defendants: Evidence from Randomized Assignment to Counsel</b>
+**The Impact of Lawyer Quality on Outcomes of Indigent Criminal Defendants: Evidence from Randomized Assignment to Counsel**
 
-<b>The Impact of High School Vocational Education on Criminal and Labor Market Outcomes</b>
+**The Impact of High School Vocational Education on Criminal and Labor Market Outcomes**
 
-<b>The Long-Term Effects of Business Destruction from Civil Unrest</b>
+**The Long-Term Effects of Business Destruction from Civil Unrest**
 
-<b>The Impact of Noise Pollution on Educational Outcomes</b> (with Carlos Esparza)
+**The Impact of Noise Pollution on Educational Outcomes** (with Carlos Esparza)
 
