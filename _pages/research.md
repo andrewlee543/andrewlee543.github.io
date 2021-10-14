@@ -10,8 +10,9 @@ redirect_from:
 
 ## Working Papers
 **Flat Fee Compensation, Lawyer Incentives, and Case Outcomes in Indigent Criminal Defense** (*Job Market Paper*)
+
 (Draft coming soon!)
-Presentations: 
+**Presentations:** Claremont Graduate University, Southern Economic Association (*scheduled*)
 
 ## Work in Progress
 <b>The Impact of Lawyer Quality on Outcomes of Indigent Criminal Defendants: Evidence from Randomized Assignment to Counsel</b>
