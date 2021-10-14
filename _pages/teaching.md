@@ -11,7 +11,7 @@ redirect_from:
 ## University of Texas at Austin
 
 **ECO 395M: Data Mining & Statistical Leanings (Master's)**: Spring 2019, 2020
-* Teaching Assistant for James Scott 
+* Teaching Assistant for James Scott  
 
 
 **ECO 421K: Microeconomic Theory for Business (Undergraduate)**: Fall 2019
