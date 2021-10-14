@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew J. Lee"
-  avatar           : "profile.png"
-  bio              : "Economics Ph.D. Candidate, UT Austin"
-  location         : "Austin, TX"
+  name             :
+  avatar           :
+  bio              :
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : ajlee@utexas.edu
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
