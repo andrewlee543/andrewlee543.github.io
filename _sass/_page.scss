@@ -17,10 +17,10 @@
 }
 
 .page {
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     @include span(12 of 12);
-    /* @include prefix(1 of 12);
-    @include suffix(1 of 12); */
+    /* @include prefix(0.5 of 12);
+    @include suffix(2 of 12); */
   }
 
   .page__inner-wrap {
