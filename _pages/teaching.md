@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Teaching
+
 ## University of Texas at Austin
 
 **ECO 395M: Data Mining & Statistical Learning** (*M.A.*): Spring 2019, 2020  
