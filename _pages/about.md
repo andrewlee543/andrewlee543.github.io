@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align = "left" class="img-responsive" style="float: left; margin: 35px 20px 100px 0px;" src="/images/cropped.jpg" width="320">
+<img align = "left" class="img-responsive" style="float: left; margin: 35px 30px 100px 0px;" src="/images/cropped.jpg" width="320">
 
 ## Welcome!
 
