@@ -16,7 +16,7 @@ My research interests are in public economics, labor economics, and political ec
 View or download my CV [here](/files/AndrewLee_CV.pdf).
 
 
-<span style="font-size:larger;">Contact</span>
+<b><span style="font-size:larger;">Contact</span></b>
 
 **Email:** ajlee [at] utexas
 
