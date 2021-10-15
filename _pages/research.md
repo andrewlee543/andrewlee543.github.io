@@ -11,8 +11,8 @@ redirect_from:
 ## Working Papers
 
 **Flat Fee Compensation, Lawyer Incentives, and Case Outcomes in Indigent Criminal Defense** (*Job Market Paper*)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Draft coming soon!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Presentations:** Claremont Graduate University, Southern Economic Association (*scheduled*)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:smaller;">Draft coming soon!</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:smaller;">**Presentations:** Claremont Graduate University, Southern Economic Association (*scheduled*)</span>  
 
 
 ## Work in Progress
