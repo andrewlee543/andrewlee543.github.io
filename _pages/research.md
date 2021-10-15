@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Research
+
 ## Working Papers
 
 **Flat Fee Compensation, Lawyer Incentives, and Case Outcomes in Indigent Criminal Defense** (*Job Market Paper*)  
