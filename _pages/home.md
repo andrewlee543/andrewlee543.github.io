@@ -3,8 +3,8 @@ permalink: /
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 <img align = "left" class="img-responsive" style="float: left; margin: 35px 30px 100px 0px;" src="/images/cropped.jpg" width="320">
