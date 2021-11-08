@@ -7,6 +7,4 @@ redirect_from:
   - /home.html
 ---
 
-## Andrew Lee
-
 Visit my homepage at: [https://sites.google.com/view/ajlee](https://sites.google.com/view/ajlee)
